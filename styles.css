@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: "Helvetica Neue", sans-serif;
+    background-image: url("cat-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: 800;
+    color: white;
+    text-shadow: 0 0 5px black;
+}
+
+.app {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    color: #e1d8bb;
+    background-color: #22340b;
+}
+
+button {
+    font-weight: bold;
+    color: white;
+    width: 200px;
+    margin: 0 0 5px 10px;
+    padding: 15px 0;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #810732;
+}
+
+#save-btn {
+    background: #cd8f3f;
+}
+
+#save-el {
+    color: white;
+}
